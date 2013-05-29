@@ -1,0 +1,1629 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Intel_64;
+		activeExecutable = A915FF0011DB6CD500313069 /* Nuova_Energia_Mista */;
+		activeTarget = A915FEFE11DB6CD500313069 /* Nuova_Energia_Mista */;
+		addToTargets = (
+		);
+		breakpoints = (
+		);
+		codeSenseManager = A95C8C4610A43CB70095B38A /* Code sense */;
+		executables = (
+			A9FDA37011247DE700F646B3 /* Nuova_Energia */,
+			A9FDA4121125D41400F646B3 /* Nuova_Energia_Spin */,
+			A9FEE6E1112869DF007B48CE /* Nuova_Energia_Isospin */,
+			A98B1C291184950D00116FB9 /* Nuova_Energia_P */,
+			A9CDB4371184B6FA00CBC3DB /* N_hh */,
+			A9F43A2A119C4AFB003C5877 /* Test_rw */,
+			A9642DE411A02A5B0026083F /* Nuova_Energia_beta */,
+			A9642DF011A02A6B0026083F /* Nuova_Energia_Spin_beta */,
+			A9642DFC11A02A7B0026083F /* Nuova_Energia_Isospin_beta */,
+			A9642EC711A056840026083F /* Test_Spin */,
+			A9D4747011A2EB7200631352 /* Nuova_Energia_P_1 */,
+			A9D4747F11A2EBA300631352 /* Nuova_Energia_P_1_beta */,
+			A939691711A9DFEA0058B978 /* Nuova_Energia_Isospin_d */,
+			A98D440811D4FBF400F978B1 /* D_mat */,
+			A98D442111D4FDE500F978B1 /* P_fond */,
+			A98D442D11D4FDEE00F978B1 /* P_ecc */,
+			A915FEB311DB670000313069 /* N_hh_s */,
+			A915FEBF11DB670C00313069 /* N_hh_i */,
+			A915FF0011DB6CD500313069 /* Nuova_Energia_Mista */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					401.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					481,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					592,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_MessageID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					416,
+					390,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					533.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					569,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					552,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300010443;
+			PBXWorkspaceStateSaveDate = 300010443;
+		};
+		perUserProjectItems = {
+			A915FED611DB67F700313069 /* PBXTextBookmark */ = A915FED611DB67F700313069 /* PBXTextBookmark */;
+			A915FEF511DB683500313069 /* PBXTextBookmark */ = A915FEF511DB683500313069 /* PBXTextBookmark */;
+			A915FF0811DB6CED00313069 /* PBXTextBookmark */ = A915FF0811DB6CED00313069 /* PBXTextBookmark */;
+			A915FF0911DB6CED00313069 /* PBXTextBookmark */ = A915FF0911DB6CED00313069 /* PBXTextBookmark */;
+			A915FF0A11DB6CED00313069 /* PBXTextBookmark */ = A915FF0A11DB6CED00313069 /* PBXTextBookmark */;
+			A915FF1411DB6DC300313069 /* PBXTextBookmark */ = A915FF1411DB6DC300313069 /* PBXTextBookmark */;
+			A979331411E1D230000CFEF0 /* PBXTextBookmark */ = A979331411E1D230000CFEF0 /* PBXTextBookmark */;
+			A979331511E1D230000CFEF0 /* PBXTextBookmark */ = A979331511E1D230000CFEF0 /* PBXTextBookmark */;
+			A979331611E1D230000CFEF0 /* PBXTextBookmark */ = A979331611E1D230000CFEF0 /* PBXTextBookmark */;
+			A979331711E1D230000CFEF0 /* PBXTextBookmark */ = A979331711E1D230000CFEF0 /* PBXTextBookmark */;
+			A979331811E1D230000CFEF0 /* PBXTextBookmark */ = A979331811E1D230000CFEF0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A95C8C4510A43CB70095B38A /* Source Control */;
+		userBookmarkGroup = A9FEE4BF10B1F5BD0004EDCC /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	A90E57E110AB4B0E009FD672 /* costanti_fisiche.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1024, 704}}";
+			sepNavSelRange = "{851, 0}";
+			sepNavVisRange = "{143, 1373}";
+			sepNavWindowFrame = "{{15, 39}, {750, 739}}";
+		};
+	};
+	A90E590610AB73C1009FD672 /* lanczos.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 7952}}";
+			sepNavSelRange = "{16331, 2}";
+			sepNavVisRange = "{15847, 640}";
+			sepNavWindowFrame = "{{197, 65}, {1083, 679}}";
+		};
+	};
+	A915FEAA11DB657400313069 /* N_hh_isospin.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 6272}}";
+			sepNavSelRange = "{10946, 0}";
+			sepNavVisRange = "{10744, 287}";
+			sepNavWindowFrame = "{{145, 39}, {1135, 739}}";
+		};
+	};
+	A915FEAB11DB658600313069 /* N_hh_spin.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 6032}}";
+			sepNavSelRange = "{8078, 0}";
+			sepNavVisRange = "{11640, 397}";
+		};
+	};
+	A915FEB111DB670000313069 /* N_hh_s */ = {
+		activeExec = 0;
+		executables = (
+			A915FEB311DB670000313069 /* N_hh_s */,
+		);
+	};
+	A915FEB311DB670000313069 /* N_hh_s */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = N_hh_s;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A915FEBD11DB670C00313069 /* N_hh_i */ = {
+		activeExec = 0;
+		executables = (
+			A915FEBF11DB670C00313069 /* N_hh_i */,
+		);
+	};
+	A915FEBF11DB670C00313069 /* N_hh_i */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = N_hh_i;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A915FED611DB67F700313069 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9CDB42E1184B62300CBC3DB /* numero_hh.cpp */;
+		name = "numero_hh.cpp: 82";
+		rLen = 0;
+		rLoc = 1876;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 3941;
+	};
+	A915FEF511DB683500313069 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A915FEAB11DB658600313069 /* N_hh_spin.cpp */;
+		name = "N_hh_spin.cpp: 238";
+		rLen = 0;
+		rLoc = 8078;
+		rType = 0;
+		vrLen = 397;
+		vrLoc = 11640;
+	};
+	A915FEF911DB6AA900313069 /* energia_p_orbitale_mista.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 33280}}";
+			sepNavSelRange = "{3087, 0}";
+			sepNavVisRange = "{79711, 577}";
+		};
+	};
+	A915FEFE11DB6CD500313069 /* Nuova_Energia_Mista */ = {
+		activeExec = 0;
+		executables = (
+			A915FF0011DB6CD500313069 /* Nuova_Energia_Mista */,
+		);
+	};
+	A915FF0011DB6CD500313069 /* Nuova_Energia_Mista */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_Mista;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A915FF0811DB6CED00313069 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A915FEAA11DB657400313069 /* N_hh_isospin.cpp */;
+		name = "N_hh_isospin.cpp: 315";
+		rLen = 0;
+		rLoc = 10900;
+		rType = 0;
+		vrLen = 873;
+		vrLoc = 11864;
+	};
+	A915FF0911DB6CED00313069 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A98B1C1E1184935200116FB9 /* energia_p_orbitale.cpp */;
+		name = "energia_p_orbitale.cpp: 43";
+		rLen = 0;
+		rLoc = 1049;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 22762;
+	};
+	A915FF0A11DB6CED00313069 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9FDA3581124637B00F646B3 /* energia_orbitale.cpp */;
+		name = "energia_orbitale.cpp: 1";
+		rLen = 80268;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 19777;
+	};
+	A915FF1411DB6DC300313069 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A962A88A1117417800C11405 /* accoppiamenti_parita.h */;
+		name = "accoppiamenti_parita.h: 539";
+		rLen = 7;
+		rLoc = 20294;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 20046;
+	};
+	A917761110C134CA006B4715 /* autostati.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{791, 557}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1359}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 496}}";
+			sepNavSelRange = "{797, 0}";
+			sepNavVisRange = "{3, 800}";
+			sepNavWindowFrame = "{{113, 81}, {1024, 697}}";
+		};
+	};
+	A92AF7E3114EA15F001BC615 /* mkl_prod_marco.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            c =             (\n                                {\n                    r = \"{12408, 117}\";\n                    s = 0;\n                }\n            );\n            r = \"{12197, 331}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 12619}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 6448}}";
+			sepNavSelRange = "{12166, 11}";
+			sepNavVisRange = "{11383, 811}";
+			sepNavWindowFrame = "{{105, 82}, {1219, 689}}";
+		};
+	};
+	A92C04761100D980006DF928 /* energia_comune.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1664}}";
+			sepNavSelRange = "{1469, 17}";
+			sepNavVisRange = "{332, 817}";
+			sepNavWindowFrame = "{{113, 81}, {1024, 697}}";
+		};
+	};
+	A92C04791100D9B3006DF928 /* energia_isospinoriale.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{35069, 824}\";\n            s = 0;\n        },\n                {\n            r = \"{37280, 1578}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 62096}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 27344}}";
+			sepNavSelRange = "{15325, 1}";
+			sepNavVisRange = "{41913, 732}";
+			sepNavWindowFrame = "{{239, 40}, {1024, 738}}";
+		};
+	};
+	A92C047D1100DA80006DF928 /* energia_orbitale.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{6576, 696}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 29543}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 14032}}";
+			sepNavSelRange = "{8098, 144}";
+			sepNavVisRange = "{11124, 846}";
+			sepNavWindowFrame = "{{197, 65}, {1083, 679}}";
+		};
+	};
+	A92C047E1100DA80006DF928 /* energia_spinoriale.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1692, 1858}\";\n            s = 0;\n        },\n                {\n            r = \"{4013, 1870}\";\n            s = 0;\n        },\n                {\n            r = \"{8709, 1868}\";\n            s = 0;\n        },\n                {\n            r = \"{15179, 515}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 37190}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 14880}}";
+			sepNavSelRange = "{20377, 0}";
+			sepNavVisRange = "{20219, 619}";
+			sepNavWindowFrame = "{{0, 56}, {1083, 679}}";
+		};
+	};
+	A92ECA4511ABF484006710D7 /* proiezione_deutone.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 2464}}";
+			sepNavSelRange = "{4465, 0}";
+			sepNavVisRange = "{1548, 1218}";
+			sepNavWindowFrame = "{{145, 39}, {1135, 739}}";
+		};
+	};
+	A939691511A9DFEA0058B978 /* Nuova_Energia_Isospin_d */ = {
+		activeExec = 0;
+		executables = (
+			A939691711A9DFEA0058B978 /* Nuova_Energia_Isospin_d */,
+		);
+	};
+	A939691711A9DFEA0058B978 /* Nuova_Energia_Isospin_d */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_Isospin_d;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A939692711A9E0060058B978 /* energia_isospinoriale_dispari.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{11347, 29148}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 79497}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 20912}}";
+			sepNavSelRange = "{18987, 0}";
+			sepNavVisRange = "{18503, 682}";
+			sepNavWindowFrame = "{{116, 78}, {1083, 679}}";
+		};
+	};
+	A94321F711A73E2B008D7CD6 /* Test_rw_vettori.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1404, 307}\";\n            s = 0;\n        },\n                {\n            r = \"{1715, 212}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1957}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1088}}";
+			sepNavSelRange = "{1247, 0}";
+			sepNavVisRange = "{830, 582}";
+		};
+	};
+	A95597B811BA7D600088B9E9 /* enerP_all.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 14496}}";
+			sepNavSelRange = "{6601, 0}";
+			sepNavVisRange = "{6447, 286}";
+		};
+	};
+	A95AEEC910A9C5EE004B8559 /* sample83.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = sample83.cpp;
+		path = "/Users/marco/Documents/Università/Tesi/Tesi/sample83.cpp";
+		sourceTree = "<absolute>";
+	};
+	A95C8C4510A43CB70095B38A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A95C8C4610A43CB70095B38A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A962A88A1117417800C11405 /* accoppiamenti_parita.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2442, 1498}\";\n            s = 0;\n        },\n                {\n            r = \"{4153, 1565}\";\n            s = 0;\n        },\n                {\n            r = \"{7532, 2}\";\n            s = 0;\n        },\n                {\n            r = \"{7704, 31}\";\n            s = 0;\n        },\n                {\n            r = \"{7797, 134}\";\n            s = 0;\n        },\n                {\n            r = \"{7970, 36}\";\n            s = 0;\n        },\n                {\n            r = \"{8046, 41}\";\n            s = 0;\n        },\n                {\n            r = \"{8127, 44}\";\n            s = 0;\n        },\n                {\n            r = \"{8235, 166}\";\n            s = 0;\n        },\n                {\n            r = \"{8518, 483}\";\n            s = 0;\n        },\n                {\n            r = \"{9115, 490}\";\n            s = 0;\n        },\n                {\n            r = \"{9745, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{9974, 522}\";\n            s = 0;\n        },\n                {\n            r = \"{10612, 528}\";\n            s = 0;\n        },\n                {\n            r = \"{11276, 116}\";\n            s = 0;\n        },\n                {\n            r = \"{11487, 3702}\";\n            s = 0;\n        },\n                {\n            r = \"{15282, 3694}\";\n            s = 0;\n        },\n                {\n            r = \"{19095, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{19268, 305}\";\n            s = 0;\n        },\n                {\n            r = \"{19635, 308}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 36172}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 9712}}";
+			sepNavSelRange = "{8988, 0}";
+			sepNavVisRange = "{10318, 288}";
+			sepNavWindowFrame = "{{114, 81}, {1024, 697}}";
+		};
+	};
+	A9642DE211A02A5B0026083F /* Nuova_Energia_beta */ = {
+		activeExec = 0;
+		executables = (
+			A9642DE411A02A5B0026083F /* Nuova_Energia_beta */,
+		);
+	};
+	A9642DE411A02A5B0026083F /* Nuova_Energia_beta */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_beta;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9642DEE11A02A6B0026083F /* Nuova_Energia_Spin_beta */ = {
+		activeExec = 0;
+		executables = (
+			A9642DF011A02A6B0026083F /* Nuova_Energia_Spin_beta */,
+		);
+	};
+	A9642DF011A02A6B0026083F /* Nuova_Energia_Spin_beta */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_Spin_beta;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9642DFA11A02A7B0026083F /* Nuova_Energia_Isospin_beta */ = {
+		activeExec = 0;
+		executables = (
+			A9642DFC11A02A7B0026083F /* Nuova_Energia_Isospin_beta */,
+		);
+	};
+	A9642DFC11A02A7B0026083F /* Nuova_Energia_Isospin_beta */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_Isospin_beta;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9642E0711A02CF90026083F /* energia_isospinoriale_beta.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 30256}}";
+			sepNavSelRange = "{73768, 0}";
+			sepNavVisRange = "{73617, 748}";
+			sepNavWindowFrame = "{{15, 38}, {1135, 740}}";
+		};
+	};
+	A9642E0811A02CF90026083F /* energia_orbitale_beta.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 30304}}";
+			sepNavSelRange = "{74503, 0}";
+			sepNavVisRange = "{55775, 572}";
+			sepNavWindowFrame = "{{15, 77}, {1084, 696}}";
+		};
+	};
+	A9642E0911A02CF90026083F /* energia_spinoriale_beta.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 30640}}";
+			sepNavSelRange = "{73035, 0}";
+			sepNavVisRange = "{72856, 818}";
+		};
+	};
+	A9642EC111A056070026083F /* test_spin.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 3232}}";
+			sepNavSelRange = "{3142, 0}";
+			sepNavVisRange = "{2850, 342}";
+			sepNavWindowFrame = "{{179, 83}, {1083, 679}}";
+		};
+	};
+	A9642EC511A056830026083F /* Test_Spin */ = {
+		activeExec = 0;
+		executables = (
+			A9642EC711A056840026083F /* Test_Spin */,
+		);
+	};
+	A9642EC711A056840026083F /* Test_Spin */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Test_Spin;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9746AE111AFDCBD001643DF /* energia_p_orbitale_deutone.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{32203, 162}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 32590}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 15040}}";
+			sepNavSelRange = "{1782, 0}";
+			sepNavVisRange = "{0, 547}";
+		};
+	};
+	A9746AE311AFDCDF001643DF /* energia_p_orbitale_deutone_ecc.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 3024}}";
+			sepNavSelRange = "{15, 0}";
+			sepNavVisRange = "{5053, 422}";
+		};
+	};
+	A979331411E1D230000CFEF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A915FEF911DB6AA900313069 /* energia_p_orbitale_mista.cpp */;
+		name = "energia_p_orbitale_mista.cpp: 103";
+		rLen = 0;
+		rLoc = 3087;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 79711;
+	};
+	A979331511E1D230000CFEF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A997620410AB7EEA007509C0 /* tmatrix.h */;
+		name = "tmatrix.h: 172";
+		rLen = 5;
+		rLoc = 5869;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 2229;
+	};
+	A979331611E1D230000CFEF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A90E590610AB73C1009FD672 /* lanczos.h */;
+		name = "lanczos.h: 431";
+		rLen = 2;
+		rLoc = 16331;
+		rType = 0;
+		vrLen = 640;
+		vrLoc = 15847;
+	};
+	A979331711E1D230000CFEF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A997622210AB8A84007509C0 /* ietl2lapack_interface.h */;
+		name = "ietl2lapack_interface.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 863;
+		vrLoc = 0;
+	};
+	A979331811E1D230000CFEF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A997622210AB8A84007509C0 /* ietl2lapack_interface.h */;
+		name = "ietl2lapack_interface.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 863;
+		vrLoc = 0;
+	};
+	A97AEB7010A87EC5002CD4A1 /* preambolo.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 992}}";
+			sepNavSelRange = "{1126, 0}";
+			sepNavVisRange = "{520, 615}";
+			sepNavWindowFrame = "{{197, 99}, {1083, 679}}";
+		};
+	};
+	A97AEB7110A87ED3002CD4A1 /* io_ublas.hpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 4032}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2055, 1184}";
+		};
+	};
+	A97AEB7210A87EE3002CD4A1 /* stringhe.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {771, 784}}";
+			sepNavSelRange = "{337, 55}";
+			sepNavVisRange = "{295, 177}";
+		};
+	};
+	A97AEB7310A87EE3002CD4A1 /* cout_vec.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 992}}";
+			sepNavSelRange = "{659, 0}";
+			sepNavVisRange = "{288, 840}";
+		};
+	};
+	A97AEB7410A87EE3002CD4A1 /* tipi_definiti.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {771, 1664}}";
+			sepNavSelRange = "{1835, 7}";
+			sepNavVisRange = "{1427, 614}";
+			sepNavWindowFrame = "{{0, 67}, {1083, 679}}";
+		};
+	};
+	A97AEB7510A87EF3002CD4A1 /* laguerre.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1984}}";
+			sepNavSelRange = "{484, 9}";
+			sepNavVisRange = "{175, 784}";
+		};
+	};
+	A97AEB7610A87EF3002CD4A1 /* jacobi.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{514, 833}\";\n            s = 0;\n        },\n                {\n            r = \"{1527, 289}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2644}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1024}}";
+			sepNavSelRange = "{358, 53}";
+			sepNavVisRange = "{25, 269}";
+			sepNavWindowFrame = "{{390, -8}, {1219, 664}}";
+		};
+	};
+	A97AEB7710A87EF3002CD4A1 /* legendre.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 640}}";
+			sepNavSelRange = "{646, 9}";
+			sepNavVisRange = "{128, 934}";
+		};
+	};
+	A97AEB7810A87EFC002CD4A1 /* gauss-laguerre.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 3104}}";
+			sepNavSelRange = "{4037, 0}";
+			sepNavVisRange = "{448, 757}";
+			sepNavWindowFrame = "{{15, 123}, {1265, 650}}";
+		};
+	};
+	A97AEB7910A87EFC002CD4A1 /* gauss-chebyshev.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1088}}";
+			sepNavSelRange = "{401, 9}";
+			sepNavVisRange = "{122, 792}";
+			sepNavWindowFrame = "{{15, 123}, {1265, 650}}";
+		};
+	};
+	A97AEB7A10A87EFC002CD4A1 /* gauss-legendre.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2976}}";
+			sepNavSelRange = "{2866, 19}";
+			sepNavVisRange = "{142, 643}";
+			sepNavWindowFrame = "{{15, 123}, {1265, 650}}";
+		};
+	};
+	A97AEB7B10A87EFC002CD4A1 /* hyperint.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{5171, 1821}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 7396}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 3632}}";
+			sepNavSelRange = "{5047, 15}";
+			sepNavVisRange = "{5018, 558}";
+			sepNavWindowFrame = "{{64, 89}, {1219, 664}}";
+		};
+	};
+	A97AEB7C10A87F0A002CD4A1 /* pauli.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 7216}}";
+			sepNavSelRange = "{12455, 0}";
+			sepNavVisRange = "{10372, 607}";
+			sepNavWindowFrame = "{{239, 40}, {1024, 738}}";
+		};
+	};
+	A97AEB7D10A87F0A002CD4A1 /* raggio.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 6704}}";
+			sepNavSelRange = "{4619, 101}";
+			sepNavVisRange = "{12204, 572}";
+			sepNavWindowFrame = "{{197, 65}, {1083, 679}}";
+		};
+	};
+	A97AEB7E10A87F1A002CD4A1 /* hyper.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1009, 355}\";\n            s = 0;\n        },\n                {\n            r = \"{1520, 274}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13571}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 6816}}";
+			sepNavSelRange = "{1189, 25}";
+			sepNavVisRange = "{1012, 1402}";
+			sepNavWindowFrame = "{{125, 99}, {1083, 679}}";
+		};
+	};
+	A97AEB7F10A87F1A002CD4A1 /* hyperintegrazione.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{292, 220}\";\n            s = 0;\n        },\n                {\n            r = \"{617, 240}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 11857}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 6128}}";
+			sepNavSelRange = "{748, 14}";
+			sepNavVisRange = "{403, 834}";
+			sepNavWindowFrame = "{{61, 88}, {1219, 664}}";
+		};
+	};
+	A97AEB8010A87F26002CD4A1 /* algebra.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 864}}";
+			sepNavSelRange = "{506, 7}";
+			sepNavVisRange = "{432, 740}";
+			sepNavWindowFrame = "{{38, 88}, {1219, 664}}";
+		};
+	};
+	A97AEB8110A87F26002CD4A1 /* algebra_vettori.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{774, 248}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2388}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 1552}}";
+			sepNavSelRange = "{1956, 59}";
+			sepNavVisRange = "{1705, 436}";
+			sepNavWindowFrame = "{{15, 40}, {1219, 738}}";
+		};
+	};
+	A97AEB8210A87F26002CD4A1 /* algebra_matrici.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2854, 286}\";\n            s = 0;\n        },\n                {\n            r = \"{4033, 342}\";\n            s = 0;\n        },\n                {\n            r = \"{5861, 1981}\";\n            s = 0;\n        },\n                {\n            r = \"{10449, 231}\";\n            s = 0;\n        },\n                {\n            r = \"{11012, 67}\";\n            s = 0;\n        },\n                {\n            r = \"{12245, 416}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 19182}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 8896}}";
+			sepNavSelRange = "{1359, 12}";
+			sepNavVisRange = "{1094, 502}";
+			sepNavWindowFrame = "{{197, 65}, {1083, 679}}";
+		};
+	};
+	A97AEB8310A87F2D002CD4A1 /* combinazioni.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1616}}";
+			sepNavSelRange = "{1066, 55}";
+			sepNavVisRange = "{344, 891}";
+			sepNavWindowFrame = "{{197, 98}, {1083, 679}}";
+		};
+	};
+	A97AEB8410A87F3B002CD4A1 /* triangolari.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{689, 155}\";\n            s = 0;\n        },\n                {\n            r = \"{1702, 444}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 10698}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 6064}}";
+			sepNavSelRange = "{2633, 0}";
+			sepNavVisRange = "{2245, 741}";
+			sepNavWindowFrame = "{{15, 123}, {1265, 650}}";
+		};
+	};
+	A97AEB8510A87F3B002CD4A1 /* triangolari_s.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{473, 102}\";\n            s = 0;\n        },\n                {\n            r = \"{1454, 275}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 12342}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 6624}}";
+			sepNavSelRange = "{5431, 10}";
+			sepNavVisRange = "{5153, 553}";
+			sepNavWindowFrame = "{{61, 103}, {1219, 664}}";
+		};
+	};
+	A97AEB8610A87F3B002CD4A1 /* clebsch.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1344}}";
+			sepNavSelRange = "{1496, 7}";
+			sepNavVisRange = "{1132, 836}";
+		};
+	};
+	A97AEB8710A87F3B002CD4A1 /* clebsch_n.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 848}}";
+			sepNavSelRange = "{276, 76}";
+			sepNavVisRange = "{0, 814}";
+			sepNavWindowFrame = "{{61, 39}, {1219, 739}}";
+		};
+	};
+	A97AEB8810A87F3B002CD4A1 /* clebsch_s.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{522, 339}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4919}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2368}}";
+			sepNavSelRange = "{2219, 9}";
+			sepNavVisRange = "{3567, 975}";
+			sepNavWindowFrame = "{{61, 37}, {1219, 741}}";
+		};
+	};
+	A97AEB8910A87F3B002CD4A1 /* integrale_angolare.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 880}}";
+			sepNavSelRange = "{869, 14}";
+			sepNavVisRange = "{292, 1005}";
+		};
+	};
+	A97AEB8A10A87F3B002CD4A1 /* integrale_angolare_n.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1760}}";
+			sepNavSelRange = "{1345, 0}";
+			sepNavVisRange = "{788, 1128}";
+			sepNavWindowFrame = "{{15, 38}, {1108, 739}}";
+		};
+	};
+	A97AEB8B10A87F46002CD4A1 /* accoppiamenti_angolari.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2748, 190}\";\n            s = 0;\n        },\n                {\n            r = \"{3106, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{3374, 38}\";\n            s = 0;\n        },\n                {\n            r = \"{3714, 72}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4435}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2560}}";
+			sepNavSelRange = "{2439, 0}";
+			sepNavVisRange = "{0, 606}";
+			sepNavWindowFrame = "{{61, 39}, {1219, 739}}";
+		};
+	};
+	A97AEB8C10A87F46002CD4A1 /* accoppiamenti_spinoriali.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{8094, 162}\";\n            s = 0;\n        },\n                {\n            r = \"{8349, 845}\";\n            s = 0;\n        },\n                {\n            r = \"{9312, 906}\";\n            s = 0;\n        },\n                {\n            r = \"{10367, 817}\";\n            s = 0;\n        },\n                {\n            r = \"{11369, 877}\";\n            s = 0;\n        },\n                {\n            r = \"{12424, 874}\";\n            s = 0;\n        },\n                {\n            r = \"{13307, 3130}\";\n            s = 0;\n        },\n                {\n            r = \"{16647, 934}\";\n            s = 0;\n        },\n                {\n            r = \"{17591, 3182}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{21864, 3031}\";\n                    s = 0;\n                }\n            );\n            r = \"{20981, 3917}\";\n            s = 0;\n        },\n                {\n            r = \"{25199, 62}\";\n            s = 0;\n        },\n                {\n            r = \"{25420, 54}\";\n            s = 0;\n        },\n                {\n            r = \"{28679, 845}\";\n            s = 0;\n        },\n                {\n            r = \"{29651, 1347}\";\n            s = 0;\n        },\n                {\n            r = \"{31157, 1150}\";\n            s = 0;\n        },\n                {\n            r = \"{32447, 3026}\";\n            s = 0;\n        },\n                {\n            r = \"{35657, 3091}\";\n            s = 0;\n        },\n                {\n            r = \"{38964, 2998}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 48047}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 9952}}";
+			sepNavSelRange = "{1511, 34}";
+			sepNavVisRange = "{1267, 608}";
+			sepNavWindowFrame = "{{179, 83}, {1083, 679}}";
+		};
+	};
+	A97AEB8D10A87F46002CD4A1 /* accoppiamenti_k_l.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 3888}}";
+			sepNavSelRange = "{2092, 17}";
+			sepNavVisRange = "{1621, 1199}";
+			sepNavWindowFrame = "{{15, 123}, {1265, 650}}";
+		};
+	};
+	A97AEB8E10A87F46002CD4A1 /* accoppiamenti_iperangolari.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2626, 247}\";\n            s = 0;\n        },\n                {\n            r = \"{3215, 1297}\";\n            s = 0;\n        },\n                {\n            r = \"{4896, 507}\";\n            s = 0;\n        },\n                {\n            r = \"{12566, 445}\";\n            s = 0;\n        },\n                {\n            r = \"{13487, 810}\";\n            s = 0;\n        },\n                {\n            r = \"{15798, 981}\";\n            s = 0;\n        },\n                {\n            r = \"{16868, 1205}\";\n            s = 0;\n        },\n                {\n            r = \"{18117, 1324}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 24785}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 9040}}";
+			sepNavSelRange = "{9739, 303}";
+			sepNavVisRange = "{246, 214}";
+			sepNavWindowFrame = "{{179, 83}, {1083, 679}}";
+		};
+	};
+	A97AEB8F10A87F50002CD4A1 /* matrice_trasformazione_jacobi.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{5101, 250}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 5781}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 3280}}";
+			sepNavSelRange = "{3281, 0}";
+			sepNavVisRange = "{3536, 466}";
+			sepNavWindowFrame = "{{197, 43}, {1083, 679}}";
+		};
+	};
+	A97AEB9010A87F50002CD4A1 /* vettore_rotazione_cinematica.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{784, 413}\";\n            s = 0;\n        },\n                {\n            r = \"{1288, 209}\";\n            s = 0;\n        },\n                {\n            r = \"{1688, 287}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4241}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2032}}";
+			sepNavSelRange = "{1377, 0}";
+			sepNavVisRange = "{1208, 647}";
+			sepNavWindowFrame = "{{197, 43}, {1083, 679}}";
+		};
+	};
+	A97AEB9810A87F6C002CD4A1 /* interazione.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1024, 1840}}";
+			sepNavSelRange = "{1263, 28}";
+			sepNavVisRange = "{889, 877}";
+			sepNavWindowFrame = "{{15, 39}, {1108, 739}}";
+		};
+	};
+	A97AEB9910A87F6C002CD4A1 /* rotazione_iperangolare.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 5600}}";
+			sepNavSelRange = "{6285, 0}";
+			sepNavVisRange = "{5844, 757}";
+			sepNavWindowFrame = "{{172, 39}, {1108, 739}}";
+		};
+	};
+	A97AEB9A10A87F6C002CD4A1 /* cinetica.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{4536, 1950}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 6497}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2752}}";
+			sepNavSelRange = "{1265, 31}";
+			sepNavVisRange = "{1076, 400}";
+			sepNavWindowFrame = "{{0, 56}, {1083, 679}}";
+		};
+	};
+	A97AEB9B10A87F6C002CD4A1 /* potenziale.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1850, 1724}\";\n            s = 0;\n        },\n                {\n            r = \"{4402, 1748}\";\n            s = 0;\n        },\n                {\n            r = \"{6162, 912}\";\n            s = 0;\n        },\n                {\n            r = \"{7384, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{9677, 901}\";\n            s = 0;\n        },\n                {\n            r = \"{10589, 1732}\";\n            s = 0;\n        },\n                {\n            r = \"{12821, 901}\";\n            s = 0;\n        },\n                {\n            r = \"{17434, 903}\";\n            s = 0;\n        },\n                {\n            r = \"{20584, 903}\";\n            s = 0;\n        },\n                {\n            r = \"{23735, 903}\";\n            s = 0;\n        },\n                {\n            r = \"{24649, 1736}\";\n            s = 0;\n        },\n                {\n            r = \"{26886, 903}\";\n            s = 0;\n        },\n                {\n            r = \"{27800, 1736}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 32235}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {771, 8704}}";
+			sepNavSelRange = "{1853, 0}";
+			sepNavVisRange = "{1546, 460}";
+			sepNavWindowFrame = "{{17, 39}, {1108, 739}}";
+		};
+	};
+	A97AEB9C10A87F6C002CD4A1 /* energia.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 472}}";
+			sepNavSelRange = "{429, 0}";
+			sepNavVisRange = "{0, 566}";
+			sepNavWindowFrame = "{{61, 40}, {1219, 664}}";
+		};
+	};
+	A97AEBBB10A87FAD002CD4A1 /* interfaces_ublas.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1616}}";
+			sepNavSelRange = "{562, 37}";
+			sepNavVisRange = "{605, 280}";
+			sepNavWindowFrame = "{{256, 39}, {1024, 739}}";
+		};
+	};
+	A97B4AE0112C3E78006F774B /* err.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 688}}";
+			sepNavSelRange = "{909, 30}";
+			sepNavVisRange = "{747, 699}";
+			sepNavWindowFrame = "{{256, 38}, {1024, 740}}";
+		};
+	};
+	A98B1C1E1184935200116FB9 /* energia_p_orbitale.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 14336}}";
+			sepNavSelRange = "{1049, 0}";
+			sepNavVisRange = "{22762, 851}";
+			sepNavWindowFrame = "{{0, 56}, {1083, 679}}";
+		};
+	};
+	A98B1C271184950D00116FB9 /* Nuova_Energia_P */ = {
+		activeExec = 0;
+		executables = (
+			A98B1C291184950D00116FB9 /* Nuova_Energia_P */,
+		);
+	};
+	A98B1C291184950D00116FB9 /* Nuova_Energia_P */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_P;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A98D43FA11D4F41100F978B1 /* matrici_stati_3c.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 1536}}";
+			sepNavSelRange = "{2321, 0}";
+			sepNavVisRange = "{1997, 628}";
+		};
+	};
+	A98D440011D4F86F00F978B1 /* proiez_3c_ecc.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2496}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{136, 433}";
+			sepNavWindowFrame = "{{28, 39}, {1135, 739}}";
+		};
+	};
+	A98D440111D4F86F00F978B1 /* proiez_3c_fond.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 2368}}";
+			sepNavSelRange = "{5253, 0}";
+			sepNavVisRange = "{4669, 584}";
+		};
+	};
+	A98D440611D4FBF400F978B1 /* D_mat */ = {
+		activeExec = 0;
+		executables = (
+			A98D440811D4FBF400F978B1 /* D_mat */,
+		);
+	};
+	A98D440811D4FBF400F978B1 /* D_mat */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = D_mat;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A98D441F11D4FDE500F978B1 /* P_fond */ = {
+		activeExec = 0;
+		executables = (
+			A98D442111D4FDE500F978B1 /* P_fond */,
+		);
+	};
+	A98D442111D4FDE500F978B1 /* P_fond */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = P_fond;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A98D442B11D4FDEE00F978B1 /* P_ecc */ = {
+		activeExec = 0;
+		executables = (
+			A98D442D11D4FDEE00F978B1 /* P_ecc */,
+		);
+	};
+	A98D442D11D4FDEE00F978B1 /* P_ecc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = P_ecc;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A997620410AB7EEA007509C0 /* tmatrix.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1024, 3920}}";
+			sepNavSelRange = "{1561, 5}";
+			sepNavVisRange = "{535, 1486}";
+			sepNavWindowFrame = "{{197, 65}, {1083, 679}}";
+		};
+	};
+	A997620710AB7F0A007509C0 /* iteration.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1024, 4240}}";
+			sepNavSelRange = "{8545, 0}";
+			sepNavVisRange = "{4974, 1239}";
+			sepNavWindowFrame = "{{38, 73}, {1083, 679}}";
+		};
+	};
+	A997622210AB8A84007509C0 /* ietl2lapack_interface.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2544}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 863}";
+			sepNavWindowFrame = "{{61, 71}, {1219, 689}}";
+		};
+	};
+	A997622310AB8A84007509C0 /* ietl2lapack.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1106, 103}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 8585}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1160, 4000}}";
+			sepNavSelRange = "{3509, 6}";
+			sepNavVisRange = "{3302, 1409}";
+			sepNavWindowFrame = "{{61, 71}, {1219, 689}}";
+		};
+	};
+	A9CCAD4911233280009C158F /* init_corpi.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{541, 748}\";\n            s = 0;\n        },\n                {\n            r = \"{1350, 391}\";\n            s = 0;\n        },\n                {\n            r = \"{1764, 2}\";\n            s = 0;\n        },\n                {\n            r = \"{2234, 462}\";\n            s = 0;\n        },\n                {\n            r = \"{6717, 2}\";\n            s = 0;\n        },\n                {\n            r = \"{6757, 10}\";\n            s = 0;\n        },\n                {\n            r = \"{6804, 10}\";\n            s = 0;\n        },\n                {\n            r = \"{6859, 16}\";\n            s = 0;\n        },\n                {\n            r = \"{6922, 19}\";\n            s = 0;\n        },\n                {\n            r = \"{6993, 12}\";\n            s = 0;\n        },\n                {\n            r = \"{7041, 16}\";\n            s = 0;\n        },\n                {\n            r = \"{7085, 20}\";\n            s = 0;\n        },\n                {\n            r = \"{7156, 13}\";\n            s = 0;\n        },\n                {\n            r = \"{7221, 13}\";\n            s = 0;\n        },\n                {\n            r = \"{7383, 25}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 7623}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 4224}}";
+			sepNavSelRange = "{3967, 0}";
+			sepNavVisRange = "{3613, 715}";
+			sepNavWindowFrame = "{{61, 39}, {1219, 738}}";
+		};
+	};
+	A9CDB42E1184B62300CBC3DB /* numero_hh.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1996, 296}\";\n            s = 0;\n        },\n                {\n            r = \"{2352, 1205}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4682}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2016}}";
+			sepNavSelRange = "{1876, 0}";
+			sepNavVisRange = "{2442, 739}";
+			sepNavWindowFrame = "{{256, 81}, {1024, 697}}";
+		};
+	};
+	A9CDB4351184B6FA00CBC3DB /* N_hh */ = {
+		activeExec = 0;
+		executables = (
+			A9CDB4371184B6FA00CBC3DB /* N_hh */,
+		);
+	};
+	A9CDB4371184B6FA00CBC3DB /* N_hh */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = N_hh;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9D4746111A2E52E00631352 /* energia_p_orbitale_ecc_beta.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 9952}}";
+			sepNavSelRange = "{5942, 0}";
+			sepNavVisRange = "{5555, 751}";
+			sepNavWindowFrame = "{{15, 38}, {1135, 740}}";
+		};
+	};
+	A9D4746211A2E52E00631352 /* energia_p_orbitale_ecc.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 15600}}";
+			sepNavSelRange = "{5665, 0}";
+			sepNavVisRange = "{5170, 271}";
+			sepNavWindowFrame = "{{15, 38}, {1135, 740}}";
+		};
+	};
+	A9D4746E11A2EB7200631352 /* Nuova_Energia_P_1 */ = {
+		activeExec = 0;
+		executables = (
+			A9D4747011A2EB7200631352 /* Nuova_Energia_P_1 */,
+		);
+	};
+	A9D4747011A2EB7200631352 /* Nuova_Energia_P_1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_P_1;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9D4747D11A2EBA300631352 /* Nuova_Energia_P_1_beta */ = {
+		activeExec = 0;
+		executables = (
+			A9D4747F11A2EBA300631352 /* Nuova_Energia_P_1_beta */,
+		);
+	};
+	A9D4747F11A2EBA300631352 /* Nuova_Energia_P_1_beta */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_P_1_beta;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9E83BD1118D3A3A004A48BC /* lista_integrazioni.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{687, 3316}\";\n            s = 0;\n        },\n                {\n            r = \"{4337, 1000}\";\n            s = 0;\n        },\n                {\n            r = \"{5455, 1351}\";\n            s = 0;\n        },\n                {\n            r = \"{7183, 95}\";\n            s = 0;\n        },\n                {\n            r = \"{7307, 1040}\";\n            s = 0;\n        },\n                {\n            r = \"{9715, 95}\";\n            s = 0;\n        },\n                {\n            r = \"{9839, 351}\";\n            s = 0;\n        },\n                {\n            r = \"{10239, 76}\";\n            s = 0;\n        },\n                {\n            r = \"{10660, 463}\";\n            s = 0;\n        },\n                {\n            r = \"{12286, 95}\";\n            s = 0;\n        },\n                {\n            r = \"{12410, 562}\";\n            s = 0;\n        },\n                {\n            r = \"{13673, 492}\";\n            s = 0;\n        },\n                {\n            r = \"{15205, 92}\";\n            s = 0;\n        },\n                {\n            r = \"{15323, 242}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{18066, 325}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{18398, 328}\";\n                    s = 0;\n                }\n            );\n            r = \"{18055, 676}\";\n            s = 0;\n        },\n                {\n            r = \"{19048, 284}\";\n            s = 0;\n        },\n                {\n            r = \"{19338, 281}\";\n            s = 0;\n        },\n                {\n            r = \"{19625, 284}\";\n            s = 0;\n        },\n                {\n            r = \"{20255, 293}\";\n            s = 0;\n        },\n                {\n            r = \"{20656, 795}\";\n            s = 0;\n        },\n                {\n            r = \"{27009, 592}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 27616}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 8864}}";
+			sepNavSelRange = "{14286, 11}";
+			sepNavVisRange = "{13848, 551}";
+			sepNavWindowFrame = "{{256, 71}, {1024, 697}}";
+		};
+	};
+	A9E83BD2118D3A43004A48BC /* io_sparse.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{537, 483}\";\n            s = 0;\n        },\n                {\n            r = \"{1099, 52}\";\n            s = 0;\n        },\n                {\n            r = \"{1358, 1195}\";\n            s = 0;\n        },\n                {\n            r = \"{2763, 1195}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 6332}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1872}}";
+			sepNavSelRange = "{582, 14}";
+			sepNavVisRange = "{31, 926}";
+		};
+	};
+	A9F43A25119C4AED003C5877 /* Test_rw_matrici.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1104}}";
+			sepNavSelRange = "{0, 1844}";
+			sepNavVisRange = "{0, 545}";
+			sepNavWindowFrame = "{{15, 77}, {1084, 696}}";
+		};
+	};
+	A9F43A28119C4AFB003C5877 /* Test_rw */ = {
+		activeExec = 0;
+		executables = (
+			A9F43A2A119C4AFB003C5877 /* Test_rw */,
+		);
+	};
+	A9F43A2A119C4AFB003C5877 /* Test_rw */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Test_rw;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9FDA3581124637B00F646B3 /* energia_orbitale.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{11286, 605}\";\n            s = 0;\n        },\n                {\n            r = \"{23337, 137}\";\n            s = 0;\n        },\n                {\n            r = \"{25645, 591}\";\n            s = 0;\n        },\n                {\n            r = \"{26243, 615}\";\n            s = 0;\n        },\n                {\n            r = \"{38735, 142}\";\n            s = 0;\n        },\n                {\n            r = \"{41061, 594}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 80268}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 32512}}";
+			sepNavSelRange = "{0, 77590}";
+			sepNavVisRange = "{19173, 618}";
+			sepNavWindowFrame = "{{0, 56}, {1083, 679}}";
+		};
+	};
+	A9FDA36E11247DE700F646B3 /* Nuova_Energia */ = {
+		activeExec = 0;
+		executables = (
+			A9FDA37011247DE700F646B3 /* Nuova_Energia */,
+		);
+	};
+	A9FDA37011247DE700F646B3 /* Nuova_Energia */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9FDA3E21125992800F646B3 /* energia_spinoriale.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1583, 1230}\";\n            s = 0;\n        },\n                {\n            r = \"{2817, 345}\";\n            s = 0;\n        },\n                {\n            r = \"{3240, 167}\";\n            s = 0;\n        },\n                {\n            r = \"{3819, 633}\";\n            s = 0;\n        },\n                {\n            r = \"{4458, 1283}\";\n            s = 0;\n        },\n                {\n            r = \"{5770, 279}\";\n            s = 0;\n        },\n                {\n            r = \"{6057, 195}\";\n            s = 0;\n        },\n                {\n            r = \"{25311, 17007}\";\n            s = 0;\n        },\n                {\n            r = \"{42426, 17003}\";\n            s = 0;\n        },\n                {\n            r = \"{79587, 483}\";\n            s = 0;\n        },\n                {\n            r = \"{82326, 261}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 84648}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {770, 18752}}";
+			sepNavSelRange = "{24936, 8}";
+			sepNavVisRange = "{11110, 1002}";
+			sepNavWindowFrame = "{{256, 81}, {1024, 697}}";
+		};
+	};
+	A9FDA4101125D41400F646B3 /* Nuova_Energia_Spin */ = {
+		activeExec = 0;
+		executables = (
+			A9FDA4121125D41400F646B3 /* Nuova_Energia_Spin */,
+		);
+	};
+	A9FDA4121125D41400F646B3 /* Nuova_Energia_Spin */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_Spin;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9FDA4341125D5FC00F646B3 /* energia_isospinoriale.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 32992}}";
+			sepNavSelRange = "{3431, 0}";
+			sepNavVisRange = "{78729, 763}";
+			sepNavWindowFrame = "{{114, 81}, {1024, 697}}";
+		};
+	};
+	A9FEE4BF10B1F5BD0004EDCC /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			A9FEE54C10B20B030004EDCC /* PBXTextBookmark */,
+		);
+		name = Root;
+	};
+	A9FEE54C10B20B030004EDCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A95AEEC910A9C5EE004B8559 /* sample83.cpp */;
+		name = using;
+		rLen = 43;
+		rLoc = 20552;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 20498;
+	};
+	A9FEE6DF112869DF007B48CE /* Nuova_Energia_Isospin */ = {
+		activeExec = 0;
+		executables = (
+			A9FEE6E1112869DF007B48CE /* Nuova_Energia_Isospin */,
+		);
+	};
+	A9FEE6E1112869DF007B48CE /* Nuova_Energia_Isospin */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = DYLD_LIBRARY_PATH;
+				value = "/opt/intel/Compiler/11.1/084/Frameworks/mkl/lib/em64t/:/opt/intel/Compiler/11.1/084/lib/:/opt/intel/Compiler/11.1/084/Frameworks/tbb/lib/";
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nuova_Energia_Isospin;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C6859E8B029090EE04C91782 /* Tesi.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1138, 1168}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1543}";
+			sepNavWindowFrame = "{{15, 141}, {1197, 632}}";
+		};
+	};
+}
